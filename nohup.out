@@ -33,3 +33,17 @@ Serving notebooks from local directory: /Users/iseongmin/workspaces/ADP
 The Jupyter Notebook is running at:
 http://localhost:8888/?token=0cb802baef33918927930495556f792e9accc5b28e2b01ab
 Shutdown this notebook server (y/[n])? [I 18:44:23.626 NotebookApp] Saving file at /chapter02/chapter03.ipynb
+[I 2023-08-23 21:22:02.355 LabApp] JupyterLab extension loaded from /Users/iseongmin/opt/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-08-23 21:22:02.355 LabApp] JupyterLab application directory is /Users/iseongmin/opt/anaconda3/share/jupyter/lab
+[I 21:22:02.358 NotebookApp] Serving notebooks from local directory: /Users/iseongmin/workspaces/ADP
+[I 21:22:02.359 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 21:22:02.359 NotebookApp] http://localhost:8888/?token=8fd99cb50d1fd9638565ad551a54f8ad9a315e669ca21049
+[I 21:22:02.359 NotebookApp]  or http://127.0.0.1:8888/?token=8fd99cb50d1fd9638565ad551a54f8ad9a315e669ca21049
+[I 21:22:02.359 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:22:02.364 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/iseongmin/Library/Jupyter/runtime/nbserver-1971-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=8fd99cb50d1fd9638565ad551a54f8ad9a315e669ca21049
+     or http://127.0.0.1:8888/?token=8fd99cb50d1fd9638565ad551a54f8ad9a315e669ca21049
