@@ -47,3 +47,23 @@ Shutdown this notebook server (y/[n])? [I 18:44:23.626 NotebookApp] Saving file 
     Or copy and paste one of these URLs:
         http://localhost:8888/?token=8fd99cb50d1fd9638565ad551a54f8ad9a315e669ca21049
      or http://127.0.0.1:8888/?token=8fd99cb50d1fd9638565ad551a54f8ad9a315e669ca21049
+[I 21:23:04.102 NotebookApp] Creating new notebook in /final_test
+[I 21:23:04.705 NotebookApp] Kernel started: bc22aae6-891d-44df-8efe-64a27eb43054, name: adp
+[I 21:24:36.046 NotebookApp] Kernel interrupted: bc22aae6-891d-44df-8efe-64a27eb43054
+[I 21:24:56.420 NotebookApp] Kernel interrupted: bc22aae6-891d-44df-8efe-64a27eb43054
+[I 21:25:04.685 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:27:06.686 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:29:06.685 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:31:06.695 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:33:06.701 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:35:06.703 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:37:06.711 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:39:06.702 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:41:06.718 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:43:06.725 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:43:12.065 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:43:12.247 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:43:12.439 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:43:12.627 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:43:12.809 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 21:43:15.900 NotebookApp] Starting buffering for bc22aae6-891d-44df-8efe-64a27eb43054:23b5c692a5fb4f1a862271e4d3549587
