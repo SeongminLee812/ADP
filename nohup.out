@@ -67,3 +67,41 @@ Shutdown this notebook server (y/[n])? [I 18:44:23.626 NotebookApp] Saving file 
 [I 21:43:12.627 NotebookApp] Saving file at /final_test/final_test03.ipynb
 [I 21:43:12.809 NotebookApp] Saving file at /final_test/final_test03.ipynb
 [I 21:43:15.900 NotebookApp] Starting buffering for bc22aae6-891d-44df-8efe-64a27eb43054:23b5c692a5fb4f1a862271e4d3549587
+[I 2023-08-24 19:29:47.423 LabApp] JupyterLab extension loaded from /Users/iseongmin/opt/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-08-24 19:29:47.423 LabApp] JupyterLab application directory is /Users/iseongmin/opt/anaconda3/share/jupyter/lab
+[I 19:29:47.426 NotebookApp] Serving notebooks from local directory: /Users/iseongmin/workspaces/ADP
+[I 19:29:47.426 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 19:29:47.426 NotebookApp] http://localhost:8888/?token=1a44e7bcc7c62f971f051e32fc290d4b25d7020748fe37e8
+[I 19:29:47.426 NotebookApp]  or http://127.0.0.1:8888/?token=1a44e7bcc7c62f971f051e32fc290d4b25d7020748fe37e8
+[I 19:29:47.426 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:29:47.433 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/iseongmin/Library/Jupyter/runtime/nbserver-1257-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=1a44e7bcc7c62f971f051e32fc290d4b25d7020748fe37e8
+     or http://127.0.0.1:8888/?token=1a44e7bcc7c62f971f051e32fc290d4b25d7020748fe37e8
+[W 19:29:57.304 NotebookApp] Notebook final_test/final_test03.ipynb is not trusted
+[I 19:29:57.534 NotebookApp] Kernel started: 715f3588-6d9d-4186-a5b1-d7c1afbab6b9, name: adp
+[I 19:30:41.056 NotebookApp] Starting buffering for 715f3588-6d9d-4186-a5b1-d7c1afbab6b9:6c86163e8e364905b004e2582d71bfc2
+[I 19:30:41.296 NotebookApp] Kernel restarted: 715f3588-6d9d-4186-a5b1-d7c1afbab6b9
+[I 19:30:41.314 NotebookApp] Restoring connection for 715f3588-6d9d-4186-a5b1-d7c1afbab6b9:6c86163e8e364905b004e2582d71bfc2
+[I 19:30:41.913 NotebookApp] Replaying 3 buffered messages
+[I 19:31:57.484 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:33:57.475 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:35:57.475 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:37:57.480 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:39:57.478 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:41:57.478 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:43:57.484 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:45:57.498 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:47:57.500 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:56:18.844 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:58:18.847 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[I 19:58:39.942 NotebookApp] Starting buffering for 715f3588-6d9d-4186-a5b1-d7c1afbab6b9:6c86163e8e364905b004e2582d71bfc2
+[W 19:59:18.048 NotebookApp] Notebook final_test/final_test03.ipynb is not trusted
+[I 20:00:15.752 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[W 20:00:15.753 NotebookApp] Notebook final_test/final_test03.ipynb is not trusted
+[I 20:00:16.693 NotebookApp] Saving file at /final_test/final_test03.ipynb
+[W 20:00:16.694 NotebookApp] Notebook final_test/final_test03.ipynb is not trusted
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
